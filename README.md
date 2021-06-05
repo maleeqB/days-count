@@ -1,4 +1,6 @@
 # days-count
-Simple python script to print total days since DOB
+Python program to print total days since Date Of Birth
 
-:laughing: days of teaching myself Python and testing out Git
+:laughing:
+###dob.py - Interactive Version
+###dob_cli.py - Command Line Version, to be Pass command line arguments
